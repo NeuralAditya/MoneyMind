@@ -72,7 +72,6 @@ MoneyMind/
 ├── visualizations.py        # Contains chart and graph rendering logic
 ├── .streamlit/              # Streamlit config directory
 ├── attached_assets/         # Static assets like images or CSVs
-├── replit.md                # Replit environment instructions (if used)
 ├── pyproject.toml           # Python dependencies and build metadata
 ```
 
