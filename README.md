@@ -118,6 +118,12 @@ Expense receipt scanner with OCR
 
 ---
 
+## 📘 License
+
+This project is licensed under the MIT License – see the [LICENSE](/license.txt) file for details.
+
+---
+
 ## 🙌 Credits
 
 Made with ❤️ by [Aditya Arora](https://www.linkedin.com/in/NeuralAditya)  
